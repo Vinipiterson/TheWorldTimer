@@ -2,6 +2,9 @@
 
 The plugin contains 1 main class and a function library. The timer can be used for any purpose (match timer, for example) and is completely replicated.
 
+(Example timer from one of my projects)
+![image](https://github.com/user-attachments/assets/879b5739-ae65-4559-941a-cce151301ff7)
+
 ## How to use:
 1 - Drag a world timer to your level and set it's default properties.
 
